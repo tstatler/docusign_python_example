@@ -8,7 +8,7 @@ To run this example you will need a DocuSign developer account that contains at 
 existing envelope.
 
 * Access token -- Generate an OAuth token:  https://developers.docusign.com/oauth-token-generator
-* Envelope ID -- The ID of the envelope for which you are requesting information.
+* Envelope ID -- The ID of the envelope for which you are requesting information. You can obtain this from your developer sandbox account https://demo.docusign.com.
 * Account ID --  Obtain your account ID at https://demo.docusign.com. Your account ID shown in the drop down in the upper right corner of the screen by your picture or the default picture.
 
 ![Image of Yaktocat](account_id.png)
