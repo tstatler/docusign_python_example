@@ -1,7 +1,6 @@
 # DocuSign Python Example
 
-This example demonstrates a simple use of the DocuSign Python SDK to request information for an existing
-DocuSign envelope ID.
+This example demonstrates a simple use of the [DocuSign Python SDK](https://github.com/docusign/docusign-python-client) to request information for an existing DocuSign envelope ID. 
 
 ## Requirements
 
