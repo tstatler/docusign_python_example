@@ -13,6 +13,14 @@ existing envelope.
 
 ![](account_id.png)
 
+## Installing Packages
+
+To install required packages run the following command from the project directory:
+
+```
+pip install -r requirements.txt
+```
+
 ## Usage
 
 ```
