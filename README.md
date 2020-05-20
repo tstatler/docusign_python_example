@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-Usage: main.py [-h] --access_token ACCESS_TOKEN --account_id ACCOUNT_ID --envelope_id ENVELOPE_ID
+main.py --access_token ACCESS_TOKEN --account_id ACCOUNT_ID --envelope_id ENVELOPE_ID
 ```
 
 
